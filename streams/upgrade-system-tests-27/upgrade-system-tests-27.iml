@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module relativePaths="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output/>
+    <orderEntry type="inheritedJdk"/>
+    <content url="file://$MODULE_DIR$/">
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true"/>
+      <excludeFolder url="file://$MODULE_DIR$/.gradle"/>
+      <excludeFolder url="file://$MODULE_DIR$/build"/>
+    </content>
+    <orderEntry type="sourceFolder" forTests="false"/>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.apache.kafka/kafka-streams/2.7.0/3986b079ac8d4561a8587acca081f04ef7658ed5/kafka-streams-2.7.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.apache.kafka/kafka-streams/2.7.0/b912928fbc0e12789ea18c1ca1714c63ee45ddf5/kafka-streams-2.7.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.apache.kafka/connect-json/2.7.0/85570078e81ccb7b98d7c5f17d011a0684c5531d/connect-json-2.7.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.apache.kafka/connect-json/2.7.0/a0798ba95570579fbf2bb8a544e87388e1422517/connect-json-2.7.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.apache.kafka/connect-api/2.7.0/2d7328d892374377654bc6134f67562118abd6d8/connect-api-2.7.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.apache.kafka/connect-api/2.7.0/1db7ccca1981fdd98a31fd8de6d77a02b527801f/connect-api-2.7.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/2.7.0/69f80dc9555d511360af2a282675b5c47176935b/kafka-clients-2.7.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/2.7.0/cf59e01c5f72438a227c0bd3feec183574bb7779/kafka-clients-2.7.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.30/b5a4b6d16ab13e34a88fae84c35cd5d68cac922c/slf4j-api-1.7.30.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.30/71a1fdefa224da50f1db6306ce609981e20186c9/slf4j-api-1.7.30-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.rocksdb/rocksdbjni/5.18.4/def7af83920ad2c39eb452f6ef9603777d899ea0/rocksdbjni-5.18.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.rocksdb/rocksdbjni/5.18.4/e79a2d8ad22aa77d59383507465faf6587cca92b/rocksdbjni-5.18.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/com.github.luben/zstd-jni/1.4.5-6/3213bb3b3f54644817f422bda3be347eaf4915a7/zstd-jni-1.4.5-6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/com.github.luben/zstd-jni/1.4.5-6/cc16fee3f0876da88bc13600a21fe1e2194ce802/zstd-jni-1.4.5-6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.lz4/lz4-java/1.7.1/c4d931ef8ad2c9c35d65b231a33e61428472d0da/lz4-java-1.7.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.lz4/lz4-java/1.7.1/1a37e596d5e62bd94000c6f0b5e3989f3b8d6a67/lz4-java-1.7.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.xerial.snappy/snappy-java/1.1.7.7/43d5dbd718e6b0b1f0c8b234f2a9bb6385b8afde/snappy-java-1.1.7.7.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.xerial.snappy/snappy-java/1.1.7.7/121f7498ef25fdd0d1e68873a2e09e9e090b04ed/snappy-java-1.1.7.7-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.10.5/2e145b4eeccdfe0efc8f4aa38b80d493465f7064/jackson-datatype-jdk8-2.10.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.10.5/ab4d3365aa5f83170e167e52715e266ca95a61d1/jackson-datatype-jdk8-2.10.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.10.5.1/7ff756c3af1fe95cb3cddba9158fc3289ca06387/jackson-databind-2.10.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.10.5.1/97c66a70c58fe9885e7b3d09d876f2e6315bacbd/jackson-databind-2.10.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.10.5/33298de8da86f92f8ccd61ced214d3b16f8c531e/jackson-annotations-2.10.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.10.5/cbc73b1feab731c1454a4907287abc49ccc4f1f9/jackson-annotations-2.10.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.10.5/db2ba27938de7f2d478a97d6abcdaa17cbbd3cea/jackson-core-2.10.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.10.5/2f15d3fa85b9d041cd7e0ad5b6471a6ec4a7854c/jackson-core-2.10.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-params/5.7.0/521dbecace93d5d7ef13a74aab231befd7954424/junit-jupiter-params-5.7.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-params/5.7.0/c8ff07ae25b187531ca9336a1ce997618cb0b816/junit-jupiter-params-5.7.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.7.0/d9044d6b45e2232ddd53fa56c15333e43d1749fd/junit-jupiter-engine-5.7.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.7.0/9c4b766f5e598d39ea76858dcc5a6e3d8fa5ca7f/junit-jupiter-engine-5.7.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.7.0/b25f3815c4c1860a73041e733a14a0379d00c4d5/junit-jupiter-api-5.7.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.7.0/388560dc9aa3c479df4e3effce036646c8b89719/junit-jupiter-api-5.7.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.7.0/eadb73c5074a4ac71061defd00fc176152a4d12c/junit-platform-engine-1.7.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.7.0/987bee3f7c9ae0c219bae82e3cfe073708cbadad/junit-platform-engine-1.7.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.7.0/84e309fbf21d857aac079a3c1fffd84284e1114d/junit-platform-commons-1.7.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.7.0/a382c78ca35b240e3b88b4d68ef6884a365631f0/junit-platform-commons-1.7.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter/5.7.0/3152d152da916ccbb0715f89f7f873f45362ad7f/junit-jupiter-5.7.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter/5.7.0/7009caa171d1d6af0f6f09dff25f9f574826a490/junit-jupiter-5.7.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.0/fc9dff4bb36d627bdc553de77e1f17efd790876c/apiguardian-api-1.1.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.0/f3c15fe970af864390c8d0634c9f16aca1b064a8/apiguardian-api-1.1.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/28c11eb91f9b6d8e200631d46e20a7f407f2a046/opentest4j-1.2.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/fanhanj/.m2/repository/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/41d55b3c2254de9837b4ec8923cbd371b8a7eab5/opentest4j-1.2.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+  <component name="ModuleRootManager"/>
+</module>
